@@ -43,8 +43,4 @@ If you input `[190, 70, 43]`, the model may predict:
 - Use more advanced models like Random Forest or Neural Networks.
 - Implement a web or GUI interface for user input.
 
----
 
-📌 **Author:** *Your Name*  
-📌 **License:** MIT  
-📌 **Contributions:** Feel free to submit issues or pull requests! 😊
